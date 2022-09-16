@@ -1,6 +1,8 @@
 ## <h1>Gerador de Senhas Aleatórias</h1>
 <h2>Projeto desenvolvido para praticar HTML5, CSS3 e JavaScript.</h2> 
 
+<img align="center" alt="Gerador de Senhas Aleatórias" src="https://i.postimg.cc/sxCRR3LT/projeto-gerador-senhas.png">
+
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/gerador-senhas/)
 
 <b>As ferramentas utilizadas foram:</b>
